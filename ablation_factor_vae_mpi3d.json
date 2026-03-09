@@ -1,0 +1,38 @@
+{
+  "full": {
+    "ces": 4.079899716176442,
+    "specificity": 0.14335114216955844,
+    "modularity": 0.02680349349975586,
+    "mediation": 516.3064728079826
+  },
+  "no_input": {
+    "ces": 4.079899716176442,
+    "specificity": 0.14335114216955844,
+    "modularity": 0.0,
+    "mediation": 516.3064728079826
+  },
+  "no_latent": {
+    "ces": 0.0,
+    "specificity": 0.0,
+    "modularity": 0.02680349349975586,
+    "mediation": 516.3064728079826
+  },
+  "no_patching": {
+    "ces": 4.079899716176442,
+    "specificity": 0.14335114216955844,
+    "modularity": 0.02680349349975586,
+    "mediation": 516.3064728079826
+  },
+  "no_mediation": {
+    "ces": 4.079899716176442,
+    "specificity": 0.14335114216955844,
+    "modularity": 0.02680349349975586,
+    "mediation": 0.0
+  },
+  "latent_only": {
+    "ces": 4.079899716176442,
+    "specificity": 0.14335114216955844,
+    "modularity": 0.0,
+    "mediation": 0.0
+  }
+}
